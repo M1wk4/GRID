@@ -16,6 +16,11 @@ footer, div {
 article {
     padding: 20px;
 }
+.siteAds {
+    padding-top: 10%;
+    background-color: pink;
+}
+
 nav {
     padding: 20px;
     background-color: pink;
