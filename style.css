@@ -10,7 +10,7 @@ body {
     margin: 0;
    }
 
-footer, div {
+div {
     padding: 20px;
   }
 article {
@@ -38,6 +38,14 @@ header {
     font-size: 2rem;
     background: coral;
  } 
+ .fot {
+   text-align: center;
+   padding: 3%;
+ }
+
+ footer {
+    background-color: orange;
+ }
  .mainArticle {
    background-color: goldenrod;
  }
